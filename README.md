@@ -3,7 +3,8 @@ A simple weather app built with HTML, CSS, and JavaScript that uses an API call 
 
 Installation
 To use the Weather App, simply download or clone the repository to your local machine. git clone https://github.com/AnandKumar1008/Project-Weather.git
-
+And
+https://mangeshss.github.io/WeatherSearch/
 Usage
 To use the Weather App, open the index.html file in your browser. The app will display the current weather conditions for a list of popular cities by default. To get the weather report for a different location, enter the city name in the input field and click the "Get Weather Report" button. The app will make an API call and display the current weather conditions for that location.
 
